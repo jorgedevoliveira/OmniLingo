@@ -1,6 +1,6 @@
 # Omnilingo: Chatbot Poliglota com Gemini AI :speech_balloon:
 
-O Omnilingo é um chatbot que te auxilia na prática de idiomas, utilizando o poder da tecnologia GEMINI AI. 
+O Omnilingo é um chatbot que te auxilia na prática de idiomas, utilizando o poder da tecnologia GEMINI AI do Google. 
 Através de uma interface simples e intuitiva, você pode conversar com o chatbot como se fosse com um professor particular.
 
 ## Como funciona: :thinking:
