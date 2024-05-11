@@ -14,11 +14,13 @@ Através de uma interface simples e intuitiva, você pode conversar com o chatbo
   ![image](https://github.com/jorgedevoliveira/OmniLingo/assets/17221438/c2d58ef4-5bf7-4ea0-be6b-4cdad1fb5288)
 
 
+
 ## O que você pode fazer com o Omnilingo: :sunglasses:
 
 - Praticar conversação em diversos idiomas.
 - Tirar dúvidas sobre gramática e vocabulário.
 - Melhorar sua fluência e compreensão oral.
+
 
 ## Comece agora mesmo! :rocket:
 
@@ -27,6 +29,10 @@ Através de uma interface simples e intuitiva, você pode conversar com o chatbo
 [Clique aqui e acesse o Omnilingo](https://omnilingo.streamlit.app/) :wink:
 
 
+
 ## Fruto da imersão na Alura e Google
 
-Este projeto foi desenvolvido com base no conhecimento adquirido na imersão IA da Alura + Google, combinando a experiência em desenvolvimento de software com as últimas tecnologias em inteligência artificial. O resultado é um chatbot inovador e eficaz que te ajuda a aprender idiomas de forma divertida e interativa.
+Este projeto foi desenvolvido com base no conhecimento adquirido na imersão IA da [Alura](https://www.alura.com.br/) + [Google](https://www.google.com/), combinando a experiência em desenvolvimento de software com as últimas tecnologias em inteligência artificial. O resultado é um chatbot inovador e eficaz que te ajuda a aprender idiomas de forma divertida e interativa com a API do [GEMINI AI](https://gemini.google.com/).
+
+![image](https://github.com/jorgedevoliveira/OmniLingo/assets/17221438/10b647ed-83a8-4009-aac0-2effdc90e3b5)
+
