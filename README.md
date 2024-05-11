@@ -11,7 +11,8 @@ Através de uma interface simples e intuitiva, você pode conversar com o chatbo
 - Se a sua mensagem não estiver relacionada ao aprendizado de idiomas, o chatbot educadamente solicitará que você faça uma pergunta sobre o assunto.
 - Todas as interações são armazenadas na janela de chat, permitindo que você acompanhe o fluxo da conversa.
 
-  ![image](https://github.com/jorgedevoliveira/OmniLingo/assets/17221438/c2d58ef4-5bf7-4ea0-be6b-4cdad1fb5288)
+- ![image](https://github.com/jorgedevoliveira/OmniLingo/assets/17221438/ab08579d-e50e-48ac-bf8a-ade4431d5c79)
+
 
 
 
