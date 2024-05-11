@@ -26,7 +26,7 @@ Através de uma interface simples e intuitiva, você pode conversar com o chatbo
 
 **Experimente o Omnilingo e descubra uma forma divertida e interativa de aprimorar suas habilidades em outros idiomas.**
 
-[Clique aqui e acesse o Omnilingo](https://omnilingo.streamlit.app/) :wink:
+[Clique aqui e acesse o Omnilingo](https://omnilingo2.streamlit.app/) :wink:
 
 
 
