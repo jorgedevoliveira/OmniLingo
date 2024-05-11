@@ -38,5 +38,6 @@ Este projeto foi desenvolvido com base no conhecimento adquirido na imersão IA 
 
 | Ana Raquel  | Fabrício Carraro | Luciano Martins | Paulo Silveira
 
-![image](https://github.com/jorgedevoliveira/OmniLingo/assets/17221438/10b647ed-83a8-4009-aac0-2effdc90e3b5)
+![image](https://github.com/jorgedevoliveira/OmniLingo/assets/17221438/161ee0f1-e3c0-4fac-b623-e501047e645d)
+
 
