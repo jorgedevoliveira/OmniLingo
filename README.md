@@ -22,3 +22,8 @@ Através de uma interface simples e intuitiva, você pode conversar com o chatbo
 **Experimente o Omnilingo e descubra uma forma divertida e interativa de aprimorar suas habilidades em outros idiomas.**
 
 [Clique aqui e acesse o Omnilingo](https://omnilingo.streamlit.app/) :wink:
+
+
+## Fruto da imersão na Alura e Google
+
+Este projeto foi desenvolvido com base no conhecimento adquirido na imersão IA da Alura + Google, combinando a experiência em desenvolvimento de software com as últimas tecnologias em inteligência artificial. O resultado é um chatbot inovador e eficaz que te ajuda a aprender idiomas de forma divertida e interativa.
