@@ -1,6 +1,6 @@
 import streamlit as st
 import google.generativeai as genai
-from google.generativeai import gemini
+
 
 # Configurando a API Key do GEMINI AI
 genai.configure(api_key="AIzaSyCk282dAS15LSTOU7GOjsmWOkoFhmMoUlI")
@@ -50,7 +50,7 @@ def main():
         st.session_state.messages = []
 
     if "chat" not in st.session_state:
-        st.session_state.chat = gemini.start_chat()  
+        st.session_state.chat = genai.start_chat()  
 
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
