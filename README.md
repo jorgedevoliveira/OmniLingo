@@ -35,5 +35,8 @@ Através de uma interface simples e intuitiva, você pode conversar com o chatbo
 
 Este projeto foi desenvolvido com base no conhecimento adquirido na imersão IA da [Alura](https://www.alura.com.br/) + [Google](https://www.google.com/), combinando a experiência em desenvolvimento de software com as últimas tecnologias em inteligência artificial. O resultado é um chatbot inovador e eficaz que te ajuda a aprender idiomas de forma divertida e interativa com a API do [GEMINI AI](https://gemini.google.com/).
 
+
+| Ana Raquel  | Fabrício Carraro | Luciano Martins | Paulo Silveira
+
 ![image](https://github.com/jorgedevoliveira/OmniLingo/assets/17221438/10b647ed-83a8-4009-aac0-2effdc90e3b5)
 
